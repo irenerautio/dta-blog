@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    }
+body{
+    background-image: url('../images/annie-spratt-nWiS2rgtVts-unsplash.jpg');
+    text-align: center;
+    width: 600px;
+    margin: 0px auto;
+    }
+#trunk{
+    padding: 10px;
+    }
+nav{
+    background-color: #ffffffcc;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 30px;
+    line-height: 10px
+    }
+main{
+    background-color: #ffffffcc;
+    padding: 10px;
+    border-radius: 30px;
+    }
+h1{
+    font-family: modak;
+    line-height: 5px;
+    }
+h2{
+    font-family: kanit, sans-serif;
+    text-align: left;
+    }
+.basic{
+    font-family: kanit, sans-serif;
+}
+a:visited{
+    color: darkmagenta;
+}
+hr{
+    color: black;
+}
